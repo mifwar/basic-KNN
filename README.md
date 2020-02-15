@@ -6,13 +6,13 @@ this respository contain basic-KNN algorithm
 ### Linux
 
 install `build-essential`
-`sudo apt-get install build-essential`
+>`sudo apt-get install build-essential`
 
 compile classificator with
-`g++ *.cpp -o classificator`
+>`g++ *.cpp -o classificator`
 
 compile dataset_generator with
-`g++ *.cpp -o generate `
+>`g++ *.cpp -o generate `
 
 ### Windows
 
